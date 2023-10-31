@@ -113,9 +113,9 @@ font-family: 'Segoe UI';
   display: inline-block; 
   align-content: center;
   background-color: black;
-  width: 24vw;
+  width: 25vw;
   color: whitesmoke;
-  margin: 5px 5px 0px 5px;
+  margin: 5px 0px 0px 5px;
 }
 .card iframe{
   min-height: 60vh;
